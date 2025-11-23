@@ -1,0 +1,24 @@
+# PyCharm / IDE
+.idea/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environments / secrets
+.env
+
+# Build / dist artifacts
+build/
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
